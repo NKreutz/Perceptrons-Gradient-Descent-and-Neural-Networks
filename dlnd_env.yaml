@@ -1,0 +1,71 @@
+name: dlnd_env
+channels: !!python/tuple
+- conda-forge
+- defaults
+dependencies:
+- colorama=0.3.7=py36_0
+- conda-forge::ca-certificates=2016.9.26=0
+- conda-forge::certifi=2017.1.23=py36_0
+- conda-forge::decorator=4.0.11=py36_0
+- conda-forge::entrypoints=0.2.2=py36_1
+- conda-forge::freetype=2.6.3=vc14_1
+- conda-forge::ipykernel=4.5.2=py36_0
+- conda-forge::ipython=5.2.0=py36_0
+- conda-forge::ipython_genutils=0.1.0=py36_0
+- conda-forge::ipywidgets=5.2.2=py36_2
+- conda-forge::jinja2=2.8=py36_1
+- conda-forge::jpeg=9b=vc14_0
+- conda-forge::jsonschema=2.5.1=py36_0
+- conda-forge::jupyter=1.0.0=py36_0
+- conda-forge::jupyter_client=4.4.0=py36_0
+- conda-forge::jupyter_console=5.0.0=py36_0
+- conda-forge::jupyter_core=4.2.1=py36_0
+- conda-forge::libiconv=1.14=vc14_4
+- conda-forge::libpng=1.6.28=vc14_0
+- conda-forge::libtiff=4.0.6=vc14_7
+- conda-forge::libxml2=2.9.3=vc14_9
+- conda-forge::markupsafe=0.23=py36_1
+- conda-forge::matplotlib=2.0.0=np111py36_1
+- conda-forge::openssl=1.0.2h=vc14_3
+- conda-forge::pandas=0.19.2=np111py36_1
+- conda-forge::pip=9.0.1=py36_0
+- conda-forge::pygments=2.2.0=py36_0
+- conda-forge::pyparsing=2.1.10=py36_0
+- conda-forge::pyqt=4.11.4=py36_2
+- conda-forge::python=3.6.0=1
+- conda-forge::python-dateutil=2.6.0=py36_0
+- conda-forge::pytz=2016.10=py36_0
+- conda-forge::pyzmq=16.0.2=py36_0
+- conda-forge::qt=4.8.7=vc14_6
+- conda-forge::qtconsole=4.2.1=py36_1
+- conda-forge::setuptools=33.1.0=py36_0
+- conda-forge::sip=4.18=py36_1
+- conda-forge::six=1.10.0=py36_1
+- conda-forge::tornado=4.4.2=py36_0
+- conda-forge::vc=14=0
+- conda-forge::vs2015_runtime=14.0.25420=0
+- conda-forge::wheel=0.29.0=py36_0
+- conda-forge::wincertstore=0.2=py36_0
+- conda-forge::zlib=1.2.11=vc14_0
+- cycler=0.10.0=py36_0
+- mistune=0.7.3=py36_0
+- mkl=2017.0.1=0
+- nbconvert=4.2.0=py36_0
+- nbformat=4.2.0=py36_0
+- notebook=4.3.1=py36_1
+- numpy=1.11.3=py36_0
+- path.py=10.0=py36_0
+- pickleshare=0.7.4=py36_0
+- prompt_toolkit=1.0.9=py36_0
+- simplegeneric=0.8.1=py36_1
+- traitlets=4.3.1=py36_0
+- wcwidth=0.1.7=py36_0
+- widgetsnbextension=1.2.6=py36_0
+- pip:
+  - ipython-genutils==0.1.0
+  - jupyter-client==4.4.0
+  - jupyter-console==5.0.0
+  - jupyter-core==4.2.1
+  - prompt-toolkit==1.0.9
+prefix: C:\Users\Owner\Anaconda3\envs\dlnd_env
+
